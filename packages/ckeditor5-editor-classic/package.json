@@ -21,7 +21,8 @@
     "@ckeditor/ckeditor5-heading": "^22.0.0",
     "@ckeditor/ckeditor5-paragraph": "^22.0.0",
     "@ckeditor/ckeditor5-typing": "^22.0.0",
-    "@ckeditor/ckeditor5-undo": "^22.0.0"
+    "@ckeditor/ckeditor5-undo": "^22.0.0",
+    "@ckeditor/ckeditor5-mention": "^22.0.0"
   },
   "engines": {
     "node": ">=12.0.0",
